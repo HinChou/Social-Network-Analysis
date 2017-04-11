@@ -3,7 +3,7 @@
 Social network analysis paves the way for people to obtain both visual and mathematical analysis of complex interactions in systems that involve entities(eg: human). With a combination of data mining and extraction it is possible to decompose large volumes of data and make connections previously unseen, with the goal of obtaining valuable information from the data.
 
 
-### Ego Networks
+## Ego Networks
 Ego networks consist of a focal node ("ego") and the nodes to whom ego is directly connected to (these are called "alters") plus the ties, if any, among the alters.
 
 ### Reference:
